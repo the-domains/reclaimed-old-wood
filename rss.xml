@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Reclaimed Old Wood]]></title>
+        <description><![CDATA[Reclaimed Old Wood]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 12 Feb 2016 16:58:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Reclaimed Old Wood]]></title>
+            <description><![CDATA[<article><h1>Welcome to Reclaimed Old Wood</h1><p>Weathered, stressed, old, whatever you want to call it. Wood often just gets more beautiful with age. This site is dedicated to everything reclaimed wood. Places to get it. What to do with it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/231496d64ace796e128c164991fcf02f516fee60.jpg"></article>]]></description>
+            <link>undefinedwelcome-to-reclaimed-old-wood/index.html</link>
+            <guid isPermaLink="false">f0442a8e-acee-440d-a94b-9a01bc883149</guid>
+            <pubDate>Fri, 12 Feb 2016 16:58:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
