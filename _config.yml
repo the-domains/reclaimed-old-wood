@@ -1,0 +1,28 @@
+name: Reclaimed Old Wood
+favicon: null
+layout_spectrum: 0.06145908613689244
+typography_spectrum: 0.9957887202035636
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#dbc58c'
+    - '#3f2d33'
+    - '#000000'
+    - '#8b775e'
+    - '#550000'
+  brandStrength: 0.061739098746329546
+  lightness: 0.398958676494658
+  saturation: 0.14567087916657329
+  rhythmicContrast: 0.7637339825741947
+purpose: []
